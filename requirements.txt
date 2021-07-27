@@ -1,0 +1,6 @@
+aiogram~=2.13
+environs~=9.3.2
+
+python-dotenv~=0.17.1
+
+pyqiwi~=0.2.0
